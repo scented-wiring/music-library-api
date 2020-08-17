@@ -1,0 +1,19 @@
+{
+  "name": "music-library-api",
+  "version": "1.0.0",
+  "description": "Music Library API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scented-wiring/music-library-api.git"
+  },
+  "author": "Tom Hammersley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scented-wiring/music-library-api/issues"
+  },
+  "homepage": "https://github.com/scented-wiring/music-library-api#readme"
+}
