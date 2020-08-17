@@ -4,6 +4,7 @@
   "description": "Music Library API",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon -r dotenv/config index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/scented-wiring/music-library-api/issues"
   },
-  "homepage": "https://github.com/scented-wiring/music-library-api#readme"
+  "homepage": "https://github.com/scented-wiring/music-library-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  }
 }
