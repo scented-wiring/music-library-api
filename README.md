@@ -1,6 +1,6 @@
 # Music Library API
 
-This API creates a database in which you can make HTTP requesrs to add and interact with artist, album and song data.
+This API creates a database in which you can make HTTP requests to add and interact with artist, album and song data.
 
 ## Prerequisites
 
